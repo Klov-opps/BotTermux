@@ -1,0 +1,2 @@
+# BotTermux
+Dasar bucin
